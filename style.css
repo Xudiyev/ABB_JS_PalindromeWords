@@ -1,0 +1,28 @@
+h1{
+    position: absolute;
+    top: 20%;
+    left: 39%;
+    color: rgb(242, 255, 225);
+}
+h3{
+    position: absolute;
+    top: 57%;
+    left: 25%;
+    color: rgb(210, 214, 255);    
+}
+h4{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: rgb(210, 214, 255); 
+}
+h4 span{
+
+    color: rgb(213, 61, 19); 
+}
+button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
